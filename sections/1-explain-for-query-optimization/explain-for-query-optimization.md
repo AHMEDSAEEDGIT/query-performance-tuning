@@ -1,6 +1,6 @@
 # Understanding MySQL Query Plans
 
----
+
 
 ## 🔹 Why MySQL Creates a Query Plan Before Each Query
 
@@ -151,7 +151,7 @@ EXPLAIN FORMAT=JSON SELECT * FROM orders;
 
 ---
 
-## ✍ Query Example1: Filtering on a Non-Indexed Column
+## ✍ Different examples to udernstand filtering with different index types
  “We will go through different types of indeces by execute a simple `SELECT` on the `city` ”
 
 

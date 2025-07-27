@@ -11,3 +11,5 @@
 - [2. Composite index best practices](/sections/2-composite-index-best-practices/composite-index-best-practices.md)
     - [2.1 Different indeces effect](/sections/2-composite-index-best-practices/benchmark/index-effect-examples.md)
     - [2.1 Redunant indces benchmark](/sections/2-composite-index-best-practices/benchmark/redundant-indeces.md)
+- [3. How to choose primary key](/sections/3-how-to-choose-primary-key/how-to-choose-primary-key.md)
+- [4. Index Performance](/sections/4-index-performance/index-performance.md)
